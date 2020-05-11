@@ -1,0 +1,17 @@
+Name: ABC
+Expiry Date: 10.05.2020
+Date of Receipt: 10.03.2020
+Manufacturer's Name: TEK
+Unit of Measure: kg
+Quantity: 20
+Position: 1/1/1
+Comment: QWERTY
+
+Name: ABC
+Expiry Date: 10.05.2020
+Date of Receipt: 10.03.2020
+Manufacturer's Name: TEK
+Unit of Measure: kg
+Quantity: 20
+Position: 1/1/1
+Comment: QWERTY
