@@ -1,0 +1,18 @@
+Name: sprite
+Expiry Date: 2020-06-25
+Date of Receipt: 2020-05-24
+Manufacturer's Name: Coca-Cola
+Unit of Measure: l
+Quantity: 40
+Position: 1/1/1
+Comment: Fresh and biting!
+
+Name: sprite
+Expiry Date: 2020-06-25
+Date of Receipt: 2020-05-24
+Manufacturer's Name: Coca-Cola
+Unit of Measure: l
+Quantity: 16
+Position: 1/1/2
+Comment: Fresh and biting!
+

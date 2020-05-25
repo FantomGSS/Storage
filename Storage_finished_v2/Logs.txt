@@ -1,0 +1,6 @@
+2020-05-24 - 56l of sprite were added to the storage.
+2020-05-24 - 90kg of potatoes were added to the storage.
+2020-05-24 - 37kg of potatoes were removed from the storage.
+2020-05-24 - 53kg of potatoes were removed from the storage.
+2020-05-24 - 24l of sprite were added to the storage.
+2020-05-24 - 24l of sprite were cleared from the storage, because its expiration date has expired or will expire soon!
